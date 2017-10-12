@@ -1,0 +1,33 @@
+<body> { background: lightyellow;
+       color: darkgray;
+       font-size: 14pt; } 
+       <link href="https://fonts.googleapis.com/css?family=Oswald" rel="stylesheet">
+       { font-family: 'Oswald', sans-serif; }
+       h1 { font-size: 250%;
+     font-weight: bold;
+     color: navy }
+     {
+        background-image: url("backround.jpg");
+} 
+     {
+    background: #ffff00;
+}
+h2 { font-size: 2000%;
+	font-style: italic }
+<link href="https://fonts.googleapis.com/css?family=Oswald" rel="stylesheet">
+
+    
+       <nav> <li> { display: inline-block }
+       { border: 2px solid black }
+       h2 { border-left: 10px solid orange }
+       { padding: 10px;
+	    margin: 5px;
+	    background: white }
+       a { color: darkred;
+       
+    text-decoration: none }
+a:hover { color: red }
+       <span>Bespoke Analytics at Lie-Nielsen Toolworks.</span>
+       
+       </nav> </li>
+       </body>
